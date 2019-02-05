@@ -1,0 +1,9 @@
+#!/bin/bash  -e
+
+
+: ' devops class 
+by parivallal
+on 5.02.2019 '
+
+for x in {1..100};do ls; done
+ 

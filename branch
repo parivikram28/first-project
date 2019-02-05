@@ -1,0 +1,8 @@
+#!/bin/bash  -e
+
+: ' creating the branch
+by parivallal
+on 26.01.2019 '
+
+
+for x in {1..100};do git branch $x; done 
