@@ -1,0 +1,9 @@
+#!/bin/bash  -e
+
+: ' basic of script
+by parivallal
+on 10.02.2019 '
+
+
+
+for x in {1..5};do pwd;done
